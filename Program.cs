@@ -1,7 +1,7 @@
 ﻿// Написать программу, которая из имеющегося массива строк формирует массив из строк, 
 // длина которых меньше или равна 3 символа
 
-int lengthOfString = 4; 
+int lengthOfString = 3; 
 char[] exceptions = new char[]{',', '.', ' ', ';'};
 
 Console.WriteLine("Введи значения через пробел, точку, запятую или точку с запятой: ");
@@ -34,7 +34,7 @@ int Sum (string[]a, int los)
 
     for (int i = 0; i < a.GetLength(0); i++)
     {
-         if (a[i].Length < los && a[i] !="") j++;//////////////
+         if (a[i].Length < los+1 && a[i] !="") j++;//////////////
     }
     return j;
 }
@@ -46,7 +46,7 @@ string[] Filtration(string[]a, int size, int los)
 
     for (int i = 0; i < a.GetLength(0); i++)
     {
-        if (a[i].Length < los && a[i] !="") ///////////////////
+        if (a[i].Length < los+1 && a[i] !="") ///////////////////
         {
             b[j] = a[i]; 
             j++;
