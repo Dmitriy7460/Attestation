@@ -1,0 +1,15 @@
+C:\Users\Дмитрий\Desktop\Учеба\Attestation work 1\bin\Debug\net6.0\Attestation work 1.exe
+C:\Users\Дмитрий\Desktop\Учеба\Attestation work 1\bin\Debug\net6.0\Attestation work 1.deps.json
+C:\Users\Дмитрий\Desktop\Учеба\Attestation work 1\bin\Debug\net6.0\Attestation work 1.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\Учеба\Attestation work 1\bin\Debug\net6.0\Attestation work 1.dll
+C:\Users\Дмитрий\Desktop\Учеба\Attestation work 1\bin\Debug\net6.0\Attestation work 1.pdb
+C:\Users\Дмитрий\Desktop\Учеба\Attestation work 1\obj\Debug\net6.0\Attestation work 1.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Учеба\Attestation work 1\obj\Debug\net6.0\Attestation work 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Desktop\Учеба\Attestation work 1\obj\Debug\net6.0\Attestation work 1.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\Учеба\Attestation work 1\obj\Debug\net6.0\Attestation work 1.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\Учеба\Attestation work 1\obj\Debug\net6.0\Attestation work 1.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Учеба\Attestation work 1\obj\Debug\net6.0\Attestation work 1.dll
+C:\Users\Дмитрий\Desktop\Учеба\Attestation work 1\obj\Debug\net6.0\refint\Attestation work 1.dll
+C:\Users\Дмитрий\Desktop\Учеба\Attestation work 1\obj\Debug\net6.0\Attestation work 1.pdb
+C:\Users\Дмитрий\Desktop\Учеба\Attestation work 1\obj\Debug\net6.0\Attestation work 1.genruntimeconfig.cache
+C:\Users\Дмитрий\Desktop\Учеба\Attestation work 1\obj\Debug\net6.0\ref\Attestation work 1.dll
